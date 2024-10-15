@@ -1,0 +1,53 @@
+    1  cd Karina M
+    2  cd KarinaM
+    3  cdKarinaM
+    4  [200~cd /c/Users/username/имя_папки
+    5  [200~cd /c/Users/username/Karina M~
+    6  [200~git config --global user.name "Karina"~
+    7  --global user.name "Karina"
+    8  user.name "Karina"
+    9  Karina328
+   10  Karina328
+   11  git config --global user.name "Karina328"
+   12  git config --global user.email "karinamishenko2003@gmail.com"
+   13  git clone https://github.com/Karina328/-HW_10
+   14  cd -HW_10
+   15  cd '-HW_10'
+   16  cd "-HW_10"
+   17  cd "HW_10"
+   18  touch text_ignore.txt
+   19  git status
+   20  git add
+   21  commit
+   22  commit
+   23  git status
+   24  git add
+   25  git add  "text_ignore.txt"
+   26  commit
+   27  git status
+   28  git commit
+   29  git commit -m
+   30  git commit -m "comm fik"
+   31  git add .
+   32  git status
+   33  touch text_ignore.txt
+   34  nano .gitignore
+   35  git status
+   36  git add .
+   37  git commit -m "comm fix"
+   38  touch main_test.txt
+   39  git add . 
+   40  git commit -m "main_test_file"
+   41  git chekout -b develop
+   42  git checkout -b develop
+   43  touch develop_test.txt
+   44  git add .
+   45  git commit -m "develop_text_file"
+   46  nano develop_test.txt
+   47  git status
+   48  git add .
+   49  git commit -m "commit.fix"
+   50  git checkout main
+   51  git merge develop
+   52  git log
+   53  history > command_list.csv
